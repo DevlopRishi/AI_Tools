@@ -1,0 +1,10 @@
+# Backend Dependencies
+Flask==2.1.0
+google-auth==2.3.3
+google-auth-oauthlib==0.4.6
+google-auth-httplib2==0.1.0
+google-api-python-client==2.33.0
+flask-cors==3.0.10
+
+# Optional: For production deployment
+gunicorn==20.1.0
